@@ -1,0 +1,6 @@
+[submodule "HitomiViewer.Back"]
+	path = HitomiViewer.Back
+	url = https://github.com/Vladislav-Bardamid/HitomiViewer.Back.git
+[submodule "HitomiViewer.Front"]
+	path = HitomiViewer.Front
+	url = https://github.com/Vladislav-Bardamid/HitomiViewer.Front.git
